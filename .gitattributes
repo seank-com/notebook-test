@@ -1,0 +1,6 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Jupyter notebooks should use LF line endings
+*.ipynb text eol=lf
+
